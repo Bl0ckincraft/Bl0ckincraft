@@ -1,4 +1,4 @@
-- 🖐 Hi, I’m @Blockincraft !
+- 🖐 Hi, I’m [@Blockincraft](https://github.com/Bl0ckincraft/Bl0ckincraft) !
 - 💜 I'm interested in development.
 - 📚 I’m currently learning Java.
-- ✉ Blockincraft#9391
+- ✉  Discord : Blockincraft#9391
